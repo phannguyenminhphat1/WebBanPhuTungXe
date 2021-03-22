@@ -16,5 +16,5 @@
     <li>Danh mục sản phẩm: Hiển thị sản phẩm, mô tả sản phẩm,...</li>
     <li>Tìm kiếm: Tìm kiếm nhanh bằng từ khóa và tìm kiếm nâng cao theo danh mục được mặc định sẵn </li>
     <li>Liên hệ: Chân trang hiển thị các chuyên mục chính và thông tin liên hệ của website</li>
-    <li>Đăng kí, Đăng nhập: có thể đăng kí,đăng nhập qua Email</li>
+    <li>Đăng kí, Đăng nhập: có thể đăng kí,đăng nhập qua Email</li> 
 </ul>
